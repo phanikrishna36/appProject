@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.buttonStyle {
+  margin: 5px;
+  background-color: transparent;
+}
+.color {
+  background-color: transparent;
+  border-width: 0px;
+  border-bottom: 3px solid #dfe2e5;
+  color: #7b8794;
+  font-weight: 400;
+  font-size: 14px;
+}
+.active {
+  border-color: #2563eb;
+  color: #2563eb;
+  font-weight: 800;
+}
